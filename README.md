@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wout
 - 👀 I’m interested in Machine Learning & Music
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & C#
 - 📫 Shoot me an email: wbesseling@hotmail.com
 
 <!---
